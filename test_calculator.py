@@ -51,5 +51,5 @@ class TestCalculator(unittest.TestCase):
         self.assertEqual(calculator.square_root(9), 3)
         self.assertEqual(calculator.square_root(4), 2)
 
-if __name__ == "main":
+if name == "main":
     unittest.main()
