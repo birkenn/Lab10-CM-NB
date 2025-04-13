@@ -1,3 +1,5 @@
+#GITHUB: https://github.com/birkenn/Lab10-CM-NB
+
 import math
 def square_root(a):
     try:
